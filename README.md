@@ -6,3 +6,6 @@ git remote add origin https://github.com/USER-JEH/responsive-website-starbuck.gi
 git push -u origin main
 
 git clone https://github.com/USER-JEH/responsive-website-starbuck.git .
+
+git fetch
+git pull
